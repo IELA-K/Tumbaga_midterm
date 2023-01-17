@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumbaga_midterm", "Tumbaga_midterm\Tumbaga_midterm.csproj", "{CE7F29D7-C552-4815-9BB6-104A4CDFA4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7F29D7-C552-4815-9BB6-104A4CDFA4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7F29D7-C552-4815-9BB6-104A4CDFA4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7F29D7-C552-4815-9BB6-104A4CDFA4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7F29D7-C552-4815-9BB6-104A4CDFA4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B076004-83CE-4530-9A1B-70EA6F1049CF}
+	EndGlobalSection
+EndGlobal
