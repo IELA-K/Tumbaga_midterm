@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Tumbaga_midterm.Controllers
 {
-    [Route("Controller")]
+    [Route("Controllers")]
     [ApiController]
     public class TrigController : ControllerBase
     {
